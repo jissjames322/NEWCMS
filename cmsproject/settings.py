@@ -43,7 +43,7 @@ INSTALLED_APPS = [
     'doctor',
     'receptionist',
     'rest_framework',
-    'auth',
+    'rootapp',
     'labtechnician',
 ]
 
